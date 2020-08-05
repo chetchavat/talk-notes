@@ -36,11 +36,11 @@ link: https://www.youtube.com/watch?v=rqWnEJXnfiY
         - If it requires an analyst to read a dashboard, your dashboard isn't good enough
 
 ## going corporate
-    - if you love data, that doesn't make you a great DS leader, it makes you a good first line manager for a data team
-        - if you want to be a great DS leader, you have to learn to play well   with other teams
-            - the higher you go, the harder it gets
-    - once you build a data team, your first team is managing your manager peers
-    - the data team needs that advocacy
+- if you love data, that doesn't make you a great DS leader, it makes you a good first line manager for a data team
+    - if you want to be a great DS leader, you have to learn to play well   with other teams
+    - the higher you go, the harder it gets
+- once you build a data team, your first team is managing your manager peers
+- the data team needs that advocacy
 
 ## hard truths
 

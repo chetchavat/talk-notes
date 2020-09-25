@@ -1,10 +1,10 @@
 Excerpted from and email I sent recently to someone wanting to enter Data from Accounting:
 
 I do read a few blogs and newsletters, and I have quite a few bookmarked:
-- [Technically](technically.substack.com)- explains technical concepts in a straightforward way
-- [Counting Stuff](counting.substack.com) - a little rambly, but good insight into the things that data analysts (and scientists) think about
+- [Technically](https://technically.substack.com)- explains technical concepts in a straightforward way
+- [Counting Stuff](https://counting.substack.com) - a little rambly, but good insight into the things that data analysts (and scientists) think about
 - [Locally Optimistic](locallyoptimistic.com) - a blog about data teams and organizations, reading this helped me shape my thoughts as a manager
-- [Normcore Tech](vicki.substack.com) - this is more general writing on tech, but the writer is a Data Science practitioner, so there is a data perspective to many articles
+- [Normcore Tech](https://vicki.substack.com) - this is more general writing on tech, but the writer is a Data Science practitioner, so there is a data perspective to many articles
 - [Caitlin Hudon](https://mobile.twitter.com/beeonaposy) - Caitlin works in data in Austin. She has a really good twitter account and blog.
 - [Variance Explained](http://varianceexplained.org/posts/) - a lot of example problems explained in R
 - [Emile's Data Canon](https://gitlab.com/-/snippets/2013122) - this one is pretty recent, but someone on twitter asked what some "seminal" blog posts in analytics were, and Emile put together a pretty good list

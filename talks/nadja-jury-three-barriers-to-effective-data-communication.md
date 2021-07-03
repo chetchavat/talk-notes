@@ -22,3 +22,25 @@ Not SQL vs Python, but speaking to each other about data with a shared understan
 Need to overcome all three barriers to achieve effective communications
 
 ## Stakeholder involvement
+
+## Scaling the process
+Scaling engineering is easy, but scaling people is hard
+- Stakeholder involvement
+    - defining MAU
+        - suggested logged in in the past 30 days
+        - brought it to people, and folks agreed
+            - but were they the right folks? or the folks that the team worked well with
+        - sanity check with broader group
+            - broader group was not a fan, wanted a more specific definiton
+    - make sure you're talking to the right people, but also imo, have sanity checks
+- Discoverability
+    - Problem: Google doc went from a few pages to 10+
+    - Current Solution: 
+        - use Google doc for high level things and commonly used words
+        - dbt docs for more granular things
+            - trying out exposures too
+        - write contextual definitions on dashboards 
+            - can link back to gdoc or dbt docs
+    - really, always be interating, this is a hard problem that isn't solved
+
+*in the end aim for good enough*

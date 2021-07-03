@@ -43,4 +43,8 @@ Scaling engineering is easy, but scaling people is hard
             - can link back to gdoc or dbt docs
     - really, always be interating, this is a hard problem that isn't solved
 
-*in the end aim for good enough*
+## broad lessons learned
+- in the end aim for good enough
+- if there isn't anyone pushing back on stuff, you might not have the right people selected
+- if someone just says good enough, they may be too far from the problem
+- they have created a process that is focused on overcoming the three barriers

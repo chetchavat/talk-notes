@@ -4,8 +4,7 @@ Coalesce Conference 2020
 Link: https://www.youtube.com/watch?v=zFBfV-25dS4
 
 ## Intro
-It's wild to have an idea for a talk and find one that basically covers all the points.
-
+It's wild to have an idea for a talk and find one that basically covers all the points you were thinking of making.
 
 Working a lot in a ad-hoc basis, they found that data comms became a pretty big problem for them.
 
